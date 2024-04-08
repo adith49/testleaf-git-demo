@@ -1,5 +1,5 @@
 Sample text file
 
-Adding line 1
+Adding line 1 - from LocalRepo
 
 Adding line 2 - from GitHub
